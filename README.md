@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Seoyoon Heo&fontSize=20)
 
 <!--
 **seoyoon130/seoyoon130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
