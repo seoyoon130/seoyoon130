@@ -26,29 +26,4 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 </p>
-<p align="center">
-    <Strong>🏆Prize🏆</Strong><br>
-    2021.9 <br> 경기대 빅데이터센터장 장려상 <br>
-    빅데이터 입찰 분석을 통한 수주 확대 방안
-   
-</p>
-<p align="center">
-    <Strong>:school:교내 프로젝트:school:</Strong><br>
-    2021.3 <br> 학교 내 당근마켓 [방구석 장터] <br>
-    코틀린을 이용한 프론트엔드 개발 <br><br>
-    2021.3 <br> 전공자들을 위한 재능장터 [COSU] <br>
-    코틀린을 이용한 프론트엔드 개발 <br><br>
-    2021.3 <br> 통신사들의 고객 이탈율 예측 <br>
-    파이썬을 이용한 머신러닝 모델 개발 <br><br>
-   
-</p>
-<p align="center">
-    <Strong>:computer:교외 프로젝트:computer:</Strong><br>
-    2022.7~ <br> 경험을 공유하는 웹 포트폴리오 [Footstep] <br>
-    JAVA Spring을 통한 백엔드 개발 <br><br>
-    2021.7 <br> 빅데이터 입찰 분석을 통한 수주 확대 방안 <br>
-    리더, 데이터 전처리, 모델 개발
-    
-   
-</p>
 
