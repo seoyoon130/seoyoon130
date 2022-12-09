@@ -8,7 +8,8 @@
     <a href="https://velog.io/@seoyoon130/" target="_blank"><img src="https://img.shields.io/badge/Velog-535D6C?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://instagram.com/sseoyoonie?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
     <a href="https://www.notion.so/CS-76c69b1c820c41e884f97df45d50ae13" target="_blank"><img src="https://img.shields.io/badge/CS-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<p>
+ 
+<p align="center">
 <Strong>📧Email📧</Strong><br>seoyoon130@gmail.com<br>
 </p>
 <p align="center">
