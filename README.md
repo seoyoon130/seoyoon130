@@ -7,10 +7,8 @@
     <Strong>☁️SNS☁️</Strong> <br>
     <a href="https://velog.io/@seoyoon130/" target="_blank"><img src="https://img.shields.io/badge/Velog-535D6C?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://instagram.com/sseoyoonie?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
-    <br>
     <a href="https://www.notion.so/CS-76c69b1c820c41e884f97df45d50ae13" target="_blank"><img src="https://img.shields.io/badge/CS-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <a href="https://wool-peace-c5d.notion.site/2f3f4a38e5a1402e9bfb5b04f54ffb70" target="_blank"><img src="https://img.shields.io/badge/Economics-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <br>
+   
     <p align="center">
 <Strong>📧Email📧</Strong><br>seoyoon130@gmail.com<br>
 </p>
